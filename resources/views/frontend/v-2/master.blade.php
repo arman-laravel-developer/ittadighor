@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>@yield('title') | {{env('APP_NAME')}}</title>
     <link rel="icon" href="{{asset('setting/'.$setting->logo)}}"/>
+    <meta name="facebook-domain-verification" content="mdiu92aickmsqtjmbpx3w71gtjgi6j" />
     <!-- Pavicon ICon -->
     @include('frontend.v-2.includes.style')
 <!-- Google Tag Manager -->
